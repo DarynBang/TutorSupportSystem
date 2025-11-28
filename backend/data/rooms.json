@@ -1,0 +1,26 @@
+[
+    {
+        "room_id": "B4-302",
+        "capacity": 30
+    },
+    {
+        "room_id": "B4-303",
+        "capacity": 20
+    },
+    {
+        "room_id": "B1-201",
+        "capacity": 25
+    },
+    {
+        "room_id": "B1-301",
+        "capacity": 20
+    },
+    {
+        "room_id": "C4-402",
+        "capacity": 15
+    },
+    {
+        "room_id": "B4-402",
+        "capacity": 15
+    }
+]

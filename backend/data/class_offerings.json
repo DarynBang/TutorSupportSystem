@@ -1,0 +1,195 @@
+[
+    {
+        "id": "cls-001",
+        "subject": "Math 1",
+        "tutor_id": "tut-001",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "B4-302",
+        "timeslot": {
+            "start": "2025-12-01T09:00",
+            "end": "2025-12-01T11:00"
+        },
+        "status": "Approved",
+        "enrolled_students": [
+            "stu-2252001",
+            "stu-2252002"
+        ],
+        "progress_notes": {
+            "2025-11-27 23:14": "Lesson 3 completed.",
+            "2025-11-28 16:20": "Students were good today."
+        }
+    },
+    {
+        "id": "cls-002",
+        "subject": "Physics 2",
+        "tutor_id": "tut-002",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": null,
+        "timeslot": {
+            "start": "2025-12-01T10:00",
+            "end": "2025-12-01T11:50"
+        },
+        "status": "Rejected",
+        "enrolled_students": null,
+        "progress_notes": null
+    },
+    {
+        "id": "cls-003",
+        "subject": "Intro to Computing",
+        "tutor_id": "tut-001",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "C2-402",
+        "timeslot": {
+            "start": "2025-12-03T10:00",
+            "end": "2025-12-03T12:00"
+        },
+        "status": "Completed",
+        "enrolled_students": [
+            "stu-2252005",
+            "stu-2252006"
+        ],
+        "progress_notes": {
+            "2025-11-28 14:46": "Lesson 4 completed."
+        }
+    },
+    {
+        "id": "cls-004",
+        "subject": "Physics 1",
+        "tutor_id": "tut-002",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "C6-402",
+        "timeslot": {
+            "start": "2025-11-24T09:30",
+            "end": "2025-11-24T11:00"
+        },
+        "status": "Approved",
+        "enrolled_students": [
+            "stu-2252001",
+            "stu-2352003"
+        ],
+        "progress_notes": null
+    },
+    {
+        "id": "cls-005",
+        "subject": "Data Structures & Algorithm",
+        "tutor_id": "tut-001",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "B4-303",
+        "timeslot": {
+            "start": "2025-11-27T14:00",
+            "end": "2025-11-27T16:00"
+        },
+        "status": "Approved",
+        "enrolled_students": [
+            "stu-2252001",
+            "stu-2352004",
+            "stu-2352003"
+        ],
+        "progress_notes": null
+    },
+    {
+        "id": "cls-006",
+        "subject": "Machine Learning",
+        "tutor_id": "tut-001",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "B1-302",
+        "timeslot": {
+            "start": "2025-11-30T08:00",
+            "end": "2025-11-30T10:00"
+        },
+        "status": "Approved",
+        "enrolled_students": [
+            "stu-2252002",
+            "stu-2352004"
+        ],
+        "progress_notes": {
+            "2025-11-28 16:21": "Students did well today."
+        }
+    },
+    {
+        "id": "cls-007",
+        "subject": "Machine Learning",
+        "tutor_id": "tut-002",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "C4-402",
+        "timeslot": {
+            "start": "2025-12-04T08:00",
+            "end": "2025-12-04T10:00"
+        },
+        "status": "Approved",
+        "enrolled_students": [],
+        "progress_notes": {
+            "2025-11-28 16:24": "Student did well."
+        }
+    },
+    {
+        "id": "cls-008",
+        "subject": "Software Engineering",
+        "tutor_id": "tut-002",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "C4-402",
+        "timeslot": {
+            "start": "2025-12-06T14:00",
+            "end": "2025-12-06T15:50"
+        },
+        "status": "Approved",
+        "enrolled_students": [
+            "stu-2352004",
+            "stu-2352003"
+        ],
+        "progress_notes": null
+    },
+    {
+        "id": "cls-009",
+        "subject": "Computer Networks",
+        "tutor_id": "tut-002",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "B4-303",
+        "timeslot": {
+            "start": "2025-12-10T10:00",
+            "end": "2025-12-12T11:50"
+        },
+        "status": "Approved",
+        "enrolled_students": [],
+        "progress_notes": null
+    },
+    {
+        "id": "cls-010",
+        "subject": "DSA",
+        "tutor_id": "tut-002",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": "C4-402",
+        "timeslot": {
+            "start": "2025-12-01T10:00",
+            "end": "2025-12-01T11:26"
+        },
+        "status": "Approved",
+        "enrolled_students": [],
+        "progress_notes": null
+    },
+    {
+        "id": "cls-011",
+        "subject": "Introduction to AI",
+        "tutor_id": "tut-001",
+        "delivery_mode": "offline",
+        "meeting_link": null,
+        "room": null,
+        "timeslot": {
+            "start": "2025-12-05T08:00",
+            "end": "2025-12-05T10:30"
+        },
+        "status": "Pending",
+        "enrolled_students": [],
+        "progress_notes": null
+    }
+]

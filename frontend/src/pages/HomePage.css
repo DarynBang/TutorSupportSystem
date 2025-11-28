@@ -1,0 +1,40 @@
+.hero {
+  height: 90vh;
+  background-image: url('/assets/login-bg.png');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.3);
+}
+
+.hero-content {
+  position: absolute;
+  top: 35%;
+  left: 10%;
+  color: white;
+}
+
+.hero-content h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.hero-content p {
+  margin: 20px 0;
+  font-size: 18px;
+}
+
+.primary-btn {
+  padding: 12px 20px;
+  background: #2c8cf3;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}

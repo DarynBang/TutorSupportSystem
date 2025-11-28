@@ -1,0 +1,47 @@
+[
+    {
+        "report_id": "f6122cd9-45c7-42dc-863a-239661841a09",
+        "class_id": "cls-001",
+        "tutor_id": "tut-001",
+        "type": "student_evaluation",
+        "content": "He did well",
+        "date": "2025-11-28",
+        "student_id": "stu-2252001"
+    },
+    {
+        "report_id": "c43d1493-4ed4-44c5-a1db-44b38033bd34",
+        "class_id": "cls-008",
+        "tutor_id": "tut-002",
+        "type": "student_evaluation",
+        "content": "The teacher explained the lessons well.",
+        "date": "2025-11-28",
+        "student_id": "stu-2352004"
+    },
+    {
+        "report_id": "ab4c25a3-7cf9-4cf9-9605-a0e0130d9266",
+        "class_id": "cls-005",
+        "tutor_id": "tut-001",
+        "type": "student_evaluation",
+        "content": "The teacher was not effective today.",
+        "date": "2025-11-28",
+        "student_id": "stu-2352004"
+    },
+    {
+        "report_id": "b9eb59eb-e29d-4c70-bcf5-94eb5ce81cb1",
+        "class_id": "cls-004",
+        "tutor_id": "tut-002",
+        "type": "student_evaluation",
+        "content": "Instructor's explanations were hard to follow.",
+        "date": "2025-11-28",
+        "student_id": "stu-2252001"
+    },
+    {
+        "report_id": "d57846ec-6bb6-42f6-9242-5de32727b552",
+        "class_id": "cls-005",
+        "tutor_id": "tut-001",
+        "type": "student_evaluation",
+        "content": "Good teacher",
+        "date": "2025-11-28",
+        "student_id": "stu-2352003"
+    }
+]

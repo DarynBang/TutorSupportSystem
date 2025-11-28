@@ -1,0 +1,80 @@
+[
+    {
+        "student_id": "stu-2252001",
+        "class_id": "cls-001",
+        "tutor_id": "tut-001",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2252005",
+        "class_id": "cls-003",
+        "tutor_id": "tut-001",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2252006",
+        "class_id": "cls-003",
+        "tutor_id": "tut-001",
+        "enrollment_status  ": "Enrolled"
+    },
+    {
+        "student_id": "stu-2252002",
+        "class_id": "cls-006",
+        "tutor_id": "tut-001",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2252002",
+        "class_id": "cls-001",
+        "tutor_id": "tut-001",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2252001",
+        "class_id": "cls-004",
+        "tutor_id": "tut-002",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2352004",
+        "class_id": "cls-006",
+        "tutor_id": "tut-001",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2252001",
+        "class_id": "cls-005",
+        "tutor_id": "tut-001",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2352004",
+        "class_id": "cls-005",
+        "tutor_id": "tut-001",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2352004",
+        "class_id": "cls-008",
+        "tutor_id": "tut-002",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2352003",
+        "class_id": "cls-004",
+        "tutor_id": "tut-002",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2352003",
+        "class_id": "cls-005",
+        "tutor_id": "tut-001",
+        "enrollment_status": "Enrolled"
+    },
+    {
+        "student_id": "stu-2352003",
+        "class_id": "cls-008",
+        "tutor_id": "tut-002",
+        "enrollment_status": "Enrolled"
+    }
+]

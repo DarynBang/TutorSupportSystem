@@ -1,0 +1,68 @@
+[
+  {
+    "id": "stu-2252001",
+    "name": "Nguyen Van A",
+    "email": "stu-2252001@hcmut.edu.vn",
+    "role": "Student"
+  },
+  {
+    "id": "stu-2252002",
+    "name": "Tran Thi B",
+    "email": "stu-2252002@hcmut.edu.vn",
+    "role": "Student"
+  },
+  {
+    "id": "stu-2352003",
+    "name": "Le Hoang C",
+    "email": "stu-2352003@hcmut.edu.vn",
+    "role": "Student"
+  },
+  {
+  "id": "stu-2352004",
+  "name": "Hoang Minh D",
+  "email": "stu-2352004@hcmut.edu.vn",
+  "role": "Student"
+  },
+  {
+  "id": "stu-2252005",
+  "name": "Nguyen Thi E",
+  "email": "stu-2252005@hcmut.edu.vn",
+  "role": "Student"
+  },
+  {
+  "id": "stu-2252006",
+  "name": "Le Quang F",
+  "email": "stu-2252006@hcmut.edu.vn",
+  "role": "Student"
+  },
+  {
+    "id": "tut-001",
+    "name": "Pham Tutor 1",
+    "email": "t1@hcmut.edu.vn",
+    "role": "Tutor"
+  },
+  {
+    "id": "tut-002",
+    "name": "Vo Tutor 2",
+    "email": "t2@hcmut.edu.vn",
+    "role": "Tutor"
+  },
+  {
+    "id": "coord-001",
+    "name": "Luong Coordinator",
+    "email": "coord@hcmut.edu.vn",
+    "role": "Coordinator"
+  },
+  {
+    "id": "admin-001",
+    "name": "Bang Tieu Admin",
+    "email": "admin@hcmut.edu.vn",
+    "role": "Admin"
+  },
+  {
+    "id": "deptchair-001",
+    "name": "Quan Dept Chair",
+    "email": "deptchair@hcmut.edu.vn",
+    "role": "Department Chair"
+  }
+]
